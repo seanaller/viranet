@@ -2,11 +2,11 @@
 ViraNet. The host-virus modelling tool.
 
 ## Description
-This is the Phyton implementation of the host-virus modelling presented in the pre-print "Aller et al, 2017" (reference below).
+This is the Phyton implementation of the host-virus modelling presented in the publication "Aller et al, 2087" (reference below).
 
 There are two main folders:
 * metabolicModels: MATLAB implementations of host-virus models
-* viranet: The actual NCBI files for the viruses, that were used in "Aller et. al. 2017".
+* viranet: The actual NCBI files for the viruses, that were used in "Aller et. al. 2018".
 
 ## Licence
 
